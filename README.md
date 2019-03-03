@@ -1,5 +1,5 @@
 # Create-a-labyrinth-WebGL
-This was my first 3D game using PHP, Javascript and WebGL technologies, created when I was 21 years old and attending university. This was my biggest project and kept me busy for several weeks.
+This was my first 3D game using PHP, Javascript and WebGL technologies, created when I was 21 years old and attending university. This was my biggest project at that time and kept me busy for several weeks.
 
 The concept is simple. A room where the user has the ability to add blocks of stone, wood and other materials in order to create a labyrinth and hide pieces of cheese inside where the other users will be called to find. The user has the role of the creator, in which case he creates the labyrinth, or the player, in which case he enters the labyrinth of another player in order to complete his mission. These options  
 
