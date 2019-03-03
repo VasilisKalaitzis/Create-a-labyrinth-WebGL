@@ -5,6 +5,6 @@ The concept is simple. A room where the user has the ability to add blocks of st
 
 Though you will notice that the code doesn't follow any coding standard (it wasn't created with reusability in mind, bad responsiveness and the structure is in chaos) I am still very proud of my creation as it reflects my inexperienced self, my ever-burning passion and ambition as well as my creative thinking which are all parts of my first steps.
 
-The reason behind this was to add practical material to the classes of the university regarding webGL and demonstrate what an individual can create with the use of a simple notepad and some code. For this project no blender was used, no copy-paste from other sources regarding the physics and the interactions and no tools other than JQuery library.
+The reason behind this was to add practical material to the classes of the university regarding webGL and demonstrate what an individual can create with the use of a simple notepad and some code. For this project no blender was used, no copy-paste from other sources regarding the physics and interactions, no tools other than JQuery library.
 
 I hope you like it, because I still do!
