@@ -1,0 +1,3 @@
+create table stage (id int Auto_increment, stageName varchar(15),Author varchar(15),stageLevel int,UserX float,UserY float,UserZ float,numberOfCheeses int,numberOfbuildings int, primary key (id))
+
+create table buildings(stageID int,building int,locX float,locY float,locZ float, foreign key (stageID) REFERENCES stage(id))
